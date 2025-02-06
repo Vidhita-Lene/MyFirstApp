@@ -1,0 +1,23 @@
+print(type(num))
+print(type(pi))
+name="vidhita"
+print(type(name))
+assigning single value to multiple variables
+ x=y=z=0
+ assigning single value to multiple variables
+ a,b,c=2,3,4
+ print(a)
+ print(b)
+ print(c)
+ cls for clearing screen
+ updating
+ var=44
+ var=34
+ print(var)
+
+task
+take details from user
+1.name
+2.age
+3.city
+display details
