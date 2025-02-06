@@ -1,1 +1,2 @@
 print("emp")
+print("details")
