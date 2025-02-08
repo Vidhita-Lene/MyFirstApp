@@ -21,3 +21,32 @@ take details from user
 2.age
 3.city
 display details
+
+#1.different ways of accepting input
+print("enter a number:")
+number= int(input())
+print(number)
+
+#2.
+num1=15
+num2=3
+num3=int(num1/num2)
+print("division is:",num3)
+
+
+7types of operators
+1.addition(+)
+2.substraction(-)
+3.multiplication
+4.division(/)-result is in decimal form
+5.floor division (//)- result is in integer form(quotient)
+6.modulus(%)- give remainder as result
+7.exponential-(**)-it gives power of any number(2^3)
+
+dataypes in python:it defines what type of data/object we are storing in a variables
+5 types
+1.Numerical- integer,float,complex(2+4i)
+2.sequential- string,list,tuple
+3.boolean-True or false
+4.sequential
+5.dictionary
