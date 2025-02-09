@@ -9,3 +9,14 @@ Python is a programming language. It was made to be open-source and easy to read
 print(country)
 print(name)
 print(para)
+
+#list type - collection of elements in a squared bracket and it can be changed(mutable)
+marks=[45,56,67,78]
+print(marks)
+print(type(marks))
+
+#tuple-  collection of elements in round brackets and it cannot be changed(immutable)
+numbers=(1,2,3,4)
+print(numbers)
+print(type(numbers))
+

@@ -7,7 +7,7 @@ percentage= 56.7
 print(percentage)
 print(type(percentage))
 
-#numerical form
+#integer form
 num=3
 print(num)
 print(type(num))    #goves type of data enterd
