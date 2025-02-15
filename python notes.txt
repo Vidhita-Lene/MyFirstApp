@@ -65,3 +65,14 @@ terminal - interact with computers operators
 variable - used to store a value
 varaiable should not start with :
     number,special chars,space
+
+Removing methods
+1.pop
+2.clearing
+3.remove
+
+Tuple
+-collection of values (homo,hetre)
+-syntax: () each element is seperated by ,
+-type(object)
+-immutable

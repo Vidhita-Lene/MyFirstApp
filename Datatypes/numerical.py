@@ -10,4 +10,4 @@ print(type(percentage))
 #integer form
 num=3
 print(num)
-print(type(num))    #goves type of data enterd
+print(type(num))    #gives type of data enterd
