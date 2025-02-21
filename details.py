@@ -1,2 +1,0 @@
-print("emp")
-print("details")

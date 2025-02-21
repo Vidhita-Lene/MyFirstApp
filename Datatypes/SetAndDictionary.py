@@ -1,4 +1,4 @@
-#set datatype - collection of data in a curly braces
+#set datatype - collection of data in a curly braces mutable
 setValues={1,2,3,4.5}
 print(setValues)
 print(type(setValues))

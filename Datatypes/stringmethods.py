@@ -40,3 +40,15 @@ print('-'*50)
 var_3='123456'
 numermethod=var_3.isalnum()
 print('is alpha numeric:',numermethod)
+
+#ascending order
+string="vidhi"
+ascending_order=''.join(sorted(string))
+print("ascending order:",ascending_order)
+
+descending_order=''.join(sorted(string,reverse=True))
+print("descending order",descending_order)
+
+#reverse method
+reverse_str=''.join(reversed(string))
+print("reversed string",reverse_str)
